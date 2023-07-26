@@ -1,1 +1,2 @@
 Projects are in verizon is challenging and interesting.
+Now git fetch and pull and get remote repository
