@@ -1,0 +1,2 @@
+echo "add to the new branch"
+echo " check the branch status"
